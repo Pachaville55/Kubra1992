@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.company</groupId>
-    <artifactId>maven-demo-1</artifactId>
+    <artifactId>Duotify task</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
